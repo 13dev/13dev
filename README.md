@@ -5,7 +5,14 @@
   <img src="https://img.shields.io/badge/C++-%20?style=flat-square&logo=c%2B%2B&logoColor=white&color=00549e" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=e54c21" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/PHP-%20?style=flat-square&logo=php&logoColor=white&color=4d588e" style="margin:5px;"/>
- 
+  <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=0160a5" style="margin:5px;"/>
+</div>
+
+
+#### Learning
+
+<div style="display: flex; justify-content:space-between">
+  <img src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=9f2802" style="margin:5px;"/>
 </div>
 
 ---

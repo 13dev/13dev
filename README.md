@@ -10,10 +10,11 @@
 
 
 
-<div style="display: flex; justify-content:space-between">
+<div style="display: flex;align-items: center;">
   <div><h3>Learning::</h3></div>
-  
-  <img src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=9f2802" style="margin:5px;"/>
+  <div>
+    <img src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=9f2802" style="margin:5px;"/>
+  </div>
 </div>
 
 ---

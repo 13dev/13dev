@@ -9,8 +9,8 @@
 
 
 
-<div>
- <h3 style="">Learning::</h3>
+<div style="display:block">
+ <h3 style="float:left">Learning::</h3>
  <img style="float:right" src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=9f2802" />
 </div>
 

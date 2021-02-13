@@ -19,6 +19,9 @@
   <img src="https://img.shields.io/badge/LARAVEL-%20?style=flat-square&logo=laravel&logoColor=white&color=FF2D20" />
   <img src="https://img.shields.io/badge/LUMEN-%20?style=flat-square&logo=lumen&logoColor=white&color=E74430"/>
   <img src="https://img.shields.io/badge/VUE.JS-%20?style=flat-square&logo=vue.js&logoColor=white&color=4FC08D" />
+  <img src="https://img.shields.io/badge/BOOTSTRAP-%20?style=flat-square&logo=bootstrap&logoColor=white&color=7952B3" />
+  <img src="https://img.shields.io/badge/BULMA-%20?style=flat-square&logo=bulma&logoColor=white&color=00D1B2" />
+  <img src="https://img.shields.io/badge/TAILWIND-%20?style=flat-square&logo=Tailwind CSS&logoColor=white&color=38B2AC" />
 </div>
 
 - <h5>Learning:</h5>

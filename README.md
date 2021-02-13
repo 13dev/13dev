@@ -1,7 +1,7 @@
 
 📦Knowledge  
  ┣ 📂Languages  
- ┃ ┗ <div style="top:10px"><img src="https://img.shields.io/badge/C++-%20?style=flat-square&logo=c%2B%2B&logoColor=white&color=00549e" /></div>  
+ ┃ ┗ <div style=""><img src="https://img.shields.io/badge/C++-%20?style=flat-square&logo=c%2B%2B&logoColor=white&color=00549e" /></div>  
  ┃ ┗ <img src="https://img.shields.io/badge/C++-%20?style=flat-square&logo=c%2B%2B&logoColor=white&color=00549e" />  
  ┣ 📂Frameworks  
  ┣ 📂Tools  

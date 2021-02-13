@@ -16,7 +16,7 @@
  <img src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=black" style="margin:5px;" />
 </div>
 
-- <h5>Website: <a target="_blank" href="https://13dev.pt">https://13dev.pt</a></h5>
+- <h5>Website: <a target="_blank" href="https://13dev.pt">13dev.pt</a></h5>
 
 ---
 <div align="center">

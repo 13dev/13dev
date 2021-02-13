@@ -1,6 +1,5 @@
 - <a target="_blank" href="https://pt.stackoverflow.com/users/70554/13dev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="15"/> **StackOverflow Profile**</a>
 
-
 <div style="display: flex; justify-content:space-between">
   <img src="https://img.shields.io/badge/C++-%20?style=flat-square&logo=c%2B%2B&logoColor=white&color=00549e" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=e54c21" style="margin:5px;"/>
@@ -10,11 +9,9 @@
 
 
 
-<div style="display: grid;grid-template-columns: 1fr 1fr;grid-gap: 20px;">
-  <div><h3>Learning::</h3></div>
-  <div>
-    <img src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=9f2802" style="margin:5px;"/>
-  </div>
+<div style="display:flex;">
+ <h3 style="flex:1">Learning::</h3>
+ <img style="flex:1" src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=9f2802" />
 </div>
 
 ---

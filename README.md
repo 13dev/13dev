@@ -1,5 +1,3 @@
-- <a target="_blank" href="https://pt.stackoverflow.com/users/70554/13dev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="15"/> **StackOverflow Profile**</a>
-
 - <h5>Languages:</h5>
 <div style="display: flex; justify-content:space-between">
   <img src="https://img.shields.io/badge/C++-%20?style=flat-square&logo=c%2B%2B&logoColor=white&color=00549e" style="margin:5px;"/>
@@ -14,9 +12,11 @@
 
 
 - <h5>Learning:</h5>
-<div style="display:block">
- <img style="float:right" src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=9f2802" />
+<div style="display: flex; justify-content:space-between">
+ <img src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=black" style="margin:5px;" />
 </div>
+
+- <h5>Website: <a target="_blank" href="https://13dev.pt">**13dev.pt**</a></h5>
 
 ---
 <div align="center">

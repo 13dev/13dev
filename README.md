@@ -9,9 +9,9 @@
 
 
 
-<div style="display:flex;">
- <h3 style="flex:1">Learning::</h3>
- <img style="flex:1" src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=9f2802" />
+<div>
+ <h3 style="">Learning::</h3>
+ <img style="float:right" src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=9f2802" />
 </div>
 
 ---

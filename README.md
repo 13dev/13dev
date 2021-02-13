@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/badge/JAVA-%20?style=flat-square&logo=java&logoColor=white&color=ed292c" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/SASS-%20?style=flat-square&logo=sass&logoColor=white&color=CC6699" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=javascript&logoColor=white&color=cfb430" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=javascript&logoColor=white&color=cfb430" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/C%23-%20?style=flat-square&logo=C%20Sharp&logoColor=white&color=239120" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/PYTHON-%20?style=flat-square&logo=python&logoColor=white&color=3776AB" style="margin:5px;"/>
 </div>
 
 

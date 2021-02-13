@@ -1,6 +1,6 @@
 - <h5>Languages:</h5>
 <div style="display: flex;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C++-%20?style=flat-square&logo=c%2B%2B&logoColor=white&color=00549e" />
   <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=e54c21" />
   <img src="https://img.shields.io/badge/PHP-%20?style=flat-square&logo=php&logoColor=white&color=4d588e" style="margin:5px;"/>

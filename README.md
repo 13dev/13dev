@@ -11,8 +11,8 @@
 
 
 <div style="display: flex;align-items: center;">
-  <div><h3>Learning::</h3></div>
-  <div>
+  <div style="flex:1;"><h3>Learning::</h3></div>
+  <div style="flex:1;">
     <img src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=9f2802" style="margin:5px;"/>
   </div>
 </div>

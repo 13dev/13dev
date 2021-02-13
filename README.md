@@ -2,8 +2,10 @@
 
 
 <div style="display: flex; justify-content:space-between">
-  <img src="https://img.shields.io/badge/-%20?style=flat-square&logo=c%2B%2B&logoColor=white&color=00549e" style="margin:5px;padding-right:2px;"/>
-  <img src="https://img.shields.io/badge/-%20?style=flat-square&logo=html5&logoColor=white&color=e54c21" style="margin:5px;padding-right:2px;"/>
+  <img src="https://img.shields.io/badge/-%20?style=flat-square&logo=c%2B%2B&logoColor=white&color=00549e" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/-%20?style=flat-square&logo=html5&logoColor=white&color=e54c21" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/-%20?style=flat-square&logo=php&logoColor=white&color=4d588e" style="margin:5px;"/>
+ 
 </div>
 
 ---

@@ -17,14 +17,8 @@
 <div style="display: flex;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/LARAVEL-%20?style=flat-square&logo=laravel&logoColor=white&color=FF2D20" />
-  <img src="https://img.shields.io/badge/VUE.JS-%20?style=flat-square&logo=vue&logoColor=white&color=4FC08D" />
   <img src="https://img.shields.io/badge/LUMEN-%20?style=flat-square&logo=lumen&logoColor=white&color=E74430"/>
-  <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=0160a5"/>
-  <img src="https://img.shields.io/badge/JAVA-%20?style=flat-square&logo=java&logoColor=white&color=ed292c"/>
-  <img src="https://img.shields.io/badge/SASS-%20?style=flat-square&logo=sass&logoColor=white&color=CC6699" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=javascript&logoColor=white&color=cfb430" />
-  <img src="https://img.shields.io/badge/C%23-%20?style=flat-square&logo=C%20Sharp&logoColor=white&color=239120" />
-  <img src="https://img.shields.io/badge/PYTHON-%20?style=flat-square&logo=python&logoColor=white&color=3776AB"/>
+  <img src="https://img.shields.io/badge/VUE.JS-%20?style=flat-square&logo=vue.js&logoColor=white&color=4FC08D" />
 </div>
 
 - <h5>Learning:</h5>

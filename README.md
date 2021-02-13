@@ -9,9 +9,9 @@
 </div>
 
 
-#### Learning
 
 <div style="display: flex; justify-content:space-between">
+  <h3>Learning::</h3>
   <img src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=9f2802" style="margin:5px;"/>
 </div>
 

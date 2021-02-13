@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=javascript&logoColor=white&color=cfb430" />
   <img src="https://img.shields.io/badge/C%23-%20?style=flat-square&logo=C%20Sharp&logoColor=white&color=239120"/>
   <img src="https://img.shields.io/badge/PYTHON-%20?style=flat-square&logo=python&logoColor=white&color=3776AB"/>
+  <img src="https://img.shields.io/badge/MYSQL-%20?style=flat-square&logo=mysql&logoColor=white&color=4479A1"/>
 </div>
 
 

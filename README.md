@@ -1,4 +1,4 @@
-- <h5>Languages:</h5>
+<!--- <h5>Languages:</h5>
 <div style="display: flex;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C++-%20?style=flat-square&logo=c%2B%2B&logoColor=white&color=00549e" />
@@ -12,9 +12,7 @@
   <img src="https://img.shields.io/badge/PYTHON-%20?style=flat-square&logo=python&logoColor=white&color=3776AB"/>
   <img src="https://img.shields.io/badge/SQL-%20?style=flat-square&logo=mysql&logoColor=white&color=4479A1"/>
 </div>
-
-
-- <h5>Frameworks:</h5>
+<h5>Frameworks:</h5>
 <div style="display: flex;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/LARAVEL-%20?style=flat-square&logo=laravel&logoColor=white&color=FF2D20" />
@@ -23,7 +21,7 @@
   <img src="https://img.shields.io/badge/BOOTSTRAP-%20?style=flat-square&logo=bootstrap&logoColor=white&color=7952B3" />
   <img src="https://img.shields.io/badge/BULMA-%20?style=flat-square&logo=bulma&logoColor=white&color=00D1B2" />
   <img src="https://img.shields.io/badge/TAILWIND-%20?style=flat-square&logo=Tailwind%20CSS&logoColor=white&color=38B2AC" />
-</div>
+</div> -->
 
 - <h5>Learning:</h5>
 <div style="display: flex; justify-content:space-between">

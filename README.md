@@ -30,7 +30,7 @@
  <img src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=4B275F" style="margin:5px;" />
 </div>
 
-- <h5>Website: <a target="_blank" href="https://13dev.pt">13dev.pt</a></h5>
+- <h5>Website & Contacts: <a target="_blank" href="https://13dev.pt">13dev.pt</a></h5>
 
 ---
 <div align="center">

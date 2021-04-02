@@ -23,9 +23,8 @@
   <img src="https://img.shields.io/badge/TAILWIND-%20?style=flat-square&logo=Tailwind%20CSS&logoColor=white&color=38B2AC" />
 </div> -->
 
-- <h5>Website: <a target="_blank" href="https://13dev.pt">https://13dev.pt</a></h5>
-- <h5>Linkedin: <a target="_blank" href="https://linkedin.com/in/leo-oliveira13">https://linkedin.com/in/leo-oliveira13</a></h5>
-- 
+- <h5>Website: <a target="_blank" href="https://13dev.pt">13dev.pt</a></h5>
+- <h5>Linkedin: <a target="_blank" href="https://linkedin.com/in/leo-oliveira13">/in/leo-oliveira13</a></h5>
 - <h5>Learning:</h5>
 <div style="display: flex; justify-content:space-between">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

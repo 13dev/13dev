@@ -23,14 +23,14 @@
   <img src="https://img.shields.io/badge/TAILWIND-%20?style=flat-square&logo=Tailwind%20CSS&logoColor=white&color=38B2AC" />
 </div> -->
 
+- <h5>Website & Contacts: <a target="_blank" href="https://13dev.pt">13dev.pt</a></h5>
+
 - <h5>Learning:</h5>
 <div style="display: flex; justify-content:space-between">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=black" style="margin:5px;" />
  <img src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=4B275F" style="margin:5px;" />
 </div>
-
-- <h5>Website & Contacts: <a target="_blank" href="https://13dev.pt">13dev.pt</a></h5>
 
 ---
 <div align="center">

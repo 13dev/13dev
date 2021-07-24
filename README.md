@@ -29,7 +29,8 @@
 - <h5>Learning:</h5>
 <div style="display: flex; justify-content:space-between">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=4B275F" style="margin:5px;" />
+    <img src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=4B275F" style="margin:5px;" />
+    <img src="https://img.shields.io/badge/REACT-%20?style=flat-square&logo=react&logoColor=white&color=0160a5" style="margin:5px;" />
 </div>
 
 ---

@@ -26,7 +26,7 @@
 
 - <h5>Website: <a target="_blank" href="https://13dev.pt">13dev.pt</a></h5>
 - <h5>Linkedin: <a target="_blank" href="https://linkedin.com/in/leo-oliveira13">/in/leo-oliveira13</a></h5>
-- <h5>Learning: <img src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=4B275F" style="margin:5px;" />
+- <h5>Learning: <img src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=4B275F" style="margin:5px;" style="vertical-align: baseline;" />
     <img src="https://img.shields.io/badge/REACT-%20?style=flat-square&logo=react&logoColor=white&color=0160a5" style="margin:5px;" /></h5>
 
 ---

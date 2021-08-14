@@ -1,5 +1,5 @@
 <div style="display: flex;">
-  <img align="right" src="https://komarev.com/ghpvc/?username=13dev&style=flat-square" />
+  
   <h6>Languages:</h6>
   <img src="https://img.shields.io/badge/C++-%20?style=flat-square&logo=c%2B%2B&logoColor=white&color=00549e" height="16" />
   <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=e54c21" height="16" />
@@ -21,13 +21,17 @@
   <h6>Learning:</h6>
   <img height="16" src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=4B275F" />
   <img src="https://img.shields.io/badge/REACT-%20?style=flat-square&logo=react&logoColor=white&color=0160a5" height="16" />
-</div> 
+</div>
+
 
 <a target="_blank" href="https://13dev.pt">
   <img align="right" src="https://user-images.githubusercontent.com/17799292/129458158-6274b0e1-6402-48f0-84f6-bddff0058290.png" height="25" width="25"/>
 </a>
 <a target="_blank" href="https://linkedin.com/in/leo-oliveira13">
   <img align="right" src="https://user-images.githubusercontent.com/17799292/129457914-2b555141-8514-4918-8c25-38b5f8ec2939.png" height="25" width="25" />
+</a>
+<a target="_blank" href="https://13dev.pt">
+<img align="right" src="https://komarev.com/ghpvc/?username=13dev&style=flat-square" height="25" />
 </a>
 
 

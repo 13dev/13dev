@@ -1,6 +1,4 @@
-
 <div style="display: flex;">
-  
   <h6>Languages:</h6>
   <img src="https://img.shields.io/badge/C++-%20?style=flat-square&logo=c%2B%2B&logoColor=white&color=811100" height="16" />
   <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=700f0a" height="16" />

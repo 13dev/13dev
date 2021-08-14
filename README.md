@@ -1,3 +1,9 @@
+<a target="_blank" href="https://13dev.pt">
+  <img align="right" src="https://user-images.githubusercontent.com/17799292/129458158-6274b0e1-6402-48f0-84f6-bddff0058290.png" height="20" width="20"/>
+</a>
+<a target="_blank" href="https://linkedin.com/in/leo-oliveira13">
+  <img align="right" src="https://user-images.githubusercontent.com/17799292/129457914-2b555141-8514-4918-8c25-38b5f8ec2939.png" height="20" width="20" />
+</a>
 <div style="display: flex;">
   
   <h6>Languages:</h6>
@@ -24,15 +30,10 @@
 </div>
 
 
-<a target="_blank" href="https://13dev.pt">
-  <img align="right" src="https://user-images.githubusercontent.com/17799292/129458158-6274b0e1-6402-48f0-84f6-bddff0058290.png" height="25" width="25"/>
-</a>
-<a target="_blank" href="https://linkedin.com/in/leo-oliveira13">
-  <img align="right" src="https://user-images.githubusercontent.com/17799292/129457914-2b555141-8514-4918-8c25-38b5f8ec2939.png" height="25" width="25" />
-</a>
-<a target="_blank" href="https://13dev.pt">
-<img align="right" src="https://komarev.com/ghpvc/?username=13dev&style=flat-square" height="25" />
-</a>
+
+
+<img align="right" src="https://komarev.com/ghpvc/?username=13dev&style=flat-square" height="20" />
+
 
 
 &nbsp;

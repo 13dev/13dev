@@ -23,10 +23,10 @@
   <img height="16" src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=4B275F" />
   <img src="https://img.shields.io/badge/REACT-%20?style=flat-square&logo=react&logoColor=white&color=0160a5" height="16" />
 </div>
-
-<img align="right" src="https://komarev.com/ghpvc/?username=13dev&style=flat-square" height="20" />
-
-
+&nbsp;
+<a href="#">
+  <img align="right" src="https://komarev.com/ghpvc/?username=13dev&style=flat-square" height="20" />
+</a>
 <a target="_blank" href="https://13dev.pt">
   <img align="right" src="https://user-images.githubusercontent.com/17799292/129458158-6274b0e1-6402-48f0-84f6-bddff0058290.png" height="20" width="20"/>
 </a>
@@ -35,8 +35,6 @@
 </a>
 
 
-
-&nbsp;
 ---
 <div align="center">
   <div>

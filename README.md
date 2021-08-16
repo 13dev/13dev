@@ -26,7 +26,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=13dev&style=flat-square" height="20" />
 </a>
 <a target="_blank" href="https://13dev.pt">
-  <img align="right" src="https://user-images.githubusercontent.com/17799292/129458158-6274b0e1-6402-48f0-84f6-bddff0058290.png" height="20" width="20"/>
+  <img align="right" src="https://user-images.githubusercontent.com/17799292/129621190-b6035bf5-9bed-4032-8988-5cd1a40a8346.png" height="20" width="20"/>
 </a>
 <a target="_blank" href="https://linkedin.com/in/leo-oliveira13">
   <img align="right" src="https://user-images.githubusercontent.com/17799292/129457914-2b555141-8514-4918-8c25-38b5f8ec2939.png" height="20" width="20" />

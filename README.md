@@ -37,7 +37,6 @@
   <img align="right" src="https://user-images.githubusercontent.com/17799292/129620557-469dd0b5-c912-453c-813e-d158d180fb40.png" height="20" width="20" />
 </a>
 
-
 ---
 <div align="center">
   <div>

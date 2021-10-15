@@ -26,6 +26,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=13dev&style=flat-square" height="20" />
 </a>
 
+
 <a target="_blank" href="https://13dev.pt">
   <img align="right" src="https://user-images.githubusercontent.com/17799292/129621864-671e1a24-953e-4ab3-883b-6be90385d89e.png" height="20" width="20"/>
 </a>

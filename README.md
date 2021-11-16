@@ -19,7 +19,6 @@
   
   <h6>Learning:</h6>
   <img height="16" src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=811100" />
-  <img src="https://img.shields.io/badge/REACT-%20?style=flat-square&logo=react&logoColor=white&color=01004d" height="16" />
 </div>
 &nbsp;
 <a href="#">

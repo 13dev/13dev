@@ -18,7 +18,9 @@
   <img src="https://img.shields.io/badge/TAILWIND-%20?style=flat-square&logo=Tailwind%20CSS&logoColor=white&color=01004d" height="16" />
   
   <h6>Learning:</h6>
-  <img height="16" src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=811100" />
+  <!--<img height="16" src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=811100" />-->
+  <img height="16" src="https://img.shields.io/badge/SCALA-%20?style=flat-square&logo=scala&logoColor=white&color=811200" />
+
 </div>
 &nbsp;
 <a href="#">

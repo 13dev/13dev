@@ -19,7 +19,7 @@
   
   <h6>Learning:</h6>
   <!--<img height="16" src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=811100" />-->
-  <img height="16" src="https://img.shields.io/badge/SCALA-%20?style=flat-square&logo=scala&logoColor=white&color=811200" />
+  <img height="16" src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=811200" />
 
 </div>
 &nbsp;
